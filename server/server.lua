@@ -1,0 +1,1 @@
+print("^6Dream Dev' : discord.gg/47TbZDCeun | Dev par Quentin-Dream#2053^7")
