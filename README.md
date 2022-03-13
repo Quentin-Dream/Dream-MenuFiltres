@@ -39,3 +39,5 @@ En cas de besoin d'aide pour l'installation : https://discord.gg/47TbZDCeun
 
 # Créateur :
 Quentin-Dream#2053
+
+https://discord.gg/pVRR6Rwk
