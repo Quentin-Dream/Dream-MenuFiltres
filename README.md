@@ -1,5 +1,5 @@
 # Dream-MenuFiltres
-Bonjour, je vous présente aujourd'hui un menu pour avoir des filtres ainsi que des options suplémentaire : simple à configurer, complet et personnalisable. Cela a été fait en RageUI et permettra au streameur ou juste joueur d'avoir des filtre ainsi que d'autre option visuel.
+Bonjour, je vous présente aujourd'hui un menu pour avoir des filtres ainsi que des options supplémentaire : simple à configurer, complet et personnalisable. Cela a été fait en RageUI et permettra au streamer ou juste joueur d'avoir des filtres ainsi que d'option visuels.
 
 # Installation
 - Renommer `Dream-MenuFiltres-main` en `Dream-MenuFiltres`
